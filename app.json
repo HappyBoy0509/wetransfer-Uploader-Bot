@@ -1,0 +1,13 @@
+{
+ "name": "Upload To We Tranfer",
+ "description": "Don't Depoly",
+ 
+   "TG_API_ID": {
+      "description": "Your Telegram API ID. Get this value from my.telegram.org!",
+      "value": ""
+  },
+   "TG_API_HASH": {
+      "description": " Your Telegram API hash. Get this value from my.telegram.org!",
+      "value": ""
+  }
+  }
